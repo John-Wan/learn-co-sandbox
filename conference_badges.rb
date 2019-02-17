@@ -1,4 +1,4 @@
-badge_maker("Arel")
+badge_makerbadge_maker("Arel")
 # Hello, "My name is Arel."
 # Each badge should read: "Hello, my name is _____."
 badge_maker[Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
