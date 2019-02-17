@@ -1,7 +1,7 @@
 # badge_maker("Arel")
 # Hello, "My name is Arel."
 # Each badge should read: "Hello, my name is _____."
-badge_maker =Edsger, Ada, Charles, Alan, Grace, Linus, Matz
+badge_maker ="Edsger", "Ada", "Charles"," "Alan", "Grace", "Linus", "Matz"
 # Write a batch_badge_creator method that takes an array of names as an argument and returns an array of badge messages.
 # batch_badge_creator
 def add_prefix(badge_maker)
