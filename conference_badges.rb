@@ -1,2 +1,2 @@
 badge_maker("Arel")
-Hello my name is 
+Hello, "My name is Arel."
