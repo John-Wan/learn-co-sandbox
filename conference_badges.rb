@@ -15,5 +15,6 @@ assign_rooms[100, 101, 102, 103, 104, 105, 106]
 def add_prefix(assign_rooms)
   return "Hello[badge_maker]!  You'll be assigned to room [assign_rooms]"
   # printer
-  #
+  # Create a method called printer that will output first the results of the batch_badge_creator method and then of the assign_rooms method to the screen.
+  
 
