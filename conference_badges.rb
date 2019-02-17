@@ -14,5 +14,6 @@ assign_rooms[100, 101, 102, 103, 104, 105, 106]
 # return a list of room assignments in the form of: "Hello, _____! You'll be assigned to room _____!"
 def add_prefix(assign_rooms)
   return "Hello[badge_maker]!  You'll be assigned to room [assign_rooms]"
-  
+  # printer
+  #
 
